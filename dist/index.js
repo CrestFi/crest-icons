@@ -1999,7 +1999,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
 
-const SvgFileUploadIcon = ({ title, titleId, ...props }) => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("svg", { xmlns: "http://www.w3.org/2000/svg", width: "1em", height: "1em", fill: "none", viewBox: "0 0 11 14", "aria-labelledby": titleId, ...props, children: [title ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("title", { id: titleId, children: title }) : null, (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("path", { stroke: "#767679", strokeLinecap: "round", d: "M3.5 5h-1C1.5 5 1 5.7 1 6.5v5c0 .5.3 1.5 1.5 1.5h6c.5 0 1.5-.2 1.5-1V6.5C10 6 9.7 5 8.5 5h-1m-2-4v7m0-7-2 2m2-2 2 2" })] }));
+const SvgFileUploadIcon = ({ title, titleId, ...props }) => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("svg", { xmlns: "http://www.w3.org/2000/svg", width: "1em", height: "1em", fill: "none", viewBox: "0 0 11 14", "aria-labelledby": titleId, ...props, children: [title ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("title", { id: titleId, children: title }) : null, (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("path", { stroke: "#ffffff", strokeLinecap: "round", d: "M3.5 5h-1C1.5 5 1 5.7 1 6.5v5c0 .5.3 1.5 1.5 1.5h6c.5 0 1.5-.2 1.5-1V6.5C10 6 9.7 5 8.5 5h-1m-2-4v7m0-7-2 2m2-2 2 2" })] }));
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (SvgFileUploadIcon);
 
 
